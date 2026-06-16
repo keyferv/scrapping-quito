@@ -47,7 +47,11 @@ Thumbs.db
 *.json
 !package.json
 !tsconfig.json
+!reviews.json
+!reviews_partial.json
+!reviews_progress.json
 *.csv
+!reviews_procesadas.csv
 *.xlsx
 *.xls
 
